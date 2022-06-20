@@ -4,6 +4,7 @@
 # Frontend Mentor - Fylo data storage component
 
 
+![image](https://user-images.githubusercontent.com/98355491/174668295-fb0d3193-61ea-4efb-8dd8-52a8f083a134.png)
 
 ## Welcome! 👋
 
